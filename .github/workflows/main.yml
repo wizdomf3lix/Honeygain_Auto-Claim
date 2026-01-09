@@ -10,7 +10,7 @@ on:
   schedule:
     # This is a "cron" string. It means "run at 12:00 IST (06:30 UTC) every day."
     # You can change this to run at a different time.
-    - cron: '00 24 * * *'
+    - cron: '00 00 * * *'
 
 # This section defines the actual "job" that will run.
 jobs:
@@ -74,5 +74,6 @@ jobs:
           name: honeygain-config
 
           path: Config/
+
 
 
